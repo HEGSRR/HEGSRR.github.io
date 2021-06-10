@@ -56,22 +56,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Peter Kedron and Joseph Holler"
+  avatar : "/assets/images/nsf.png"
+  bio    : "Transforming Theory and STEM Education Through Reproductions and Replications in the Geographical Sciences"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: "HEGSRR GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/HEGSRR"
+    - label: "Dr Kedron @ ASU"
+      icon: "fas fa-fw fa-link"
+      url: "https://sgsup.asu.edu/peter-kedron"
+    - label: "Dr Holler @ Middlebury"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.middlebury.edu/academics/geog/faculty/node/454160"
+    - label: "Holler's Open Source GIS GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/GIS4DEV"
 
 footer:
   links:
