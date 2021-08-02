@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /contributors/
 title: "Contributors"
 ---
 
