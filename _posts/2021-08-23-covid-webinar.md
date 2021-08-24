@@ -14,7 +14,7 @@ tags:
 Today (August 23, 2021), we had the honor of presenting the final webinar in the [Geospatial Fellows Webinar Series](https://aag-geospatialfellows-series.secure-platform.com/a/solicitations/16/sessiongallery).
 The series was hosted by the American Association of Geographers (AAG) to highlight the COVID-19 geospatial research conducted by fellows of the [Geospatial Software Institute](https://gsi.cigi.illinois.edu/) at the University of Illinois Urbana-Champaign.
 
-Our lecture, [*Working with Students to Reproduce COVID-19 Research to Establish the Credibility of Findings and Accelerate Policymaker Adoption*](https://aag-geospatialfellows-series.secure-platform.com/a/solicitations/16/sessiongallery/250), highlighted the work we conduced as part of a cohort of fifteen [geospatial fellows](https://gsi.cigi.illinois.edu/geospatial-fellows-members/).
+Our lecture, [*Working with Students to Reproduce COVID-19 Research to Establish the Credibility of Findings and Accelerate Policymaker Adoption*](https://aag-geospatialfellows-series.secure-platform.com/a/solicitations/16/sessiongallery/250), highlighted the work we conduced as part of a cohort of sixteen [geospatial fellows](https://gsi.cigi.illinois.edu/geospatial-fellows-members/).
 
 ### Highlights
 
