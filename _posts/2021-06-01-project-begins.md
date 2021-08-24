@@ -2,9 +2,10 @@
 title: "The HEGSRR Project officially begins"
 categories:
   - blog
+  - grant
 tags:
-  - news
   - NSF
+  - grant
 ---
 
 The NSF award # [2049837](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2049837):

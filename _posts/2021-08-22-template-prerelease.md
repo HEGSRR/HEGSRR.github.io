@@ -6,7 +6,7 @@ tags:
   - Template
   - Reproducibility
   - Preanalysis
-  - Git
+  - GitHub
   - Compendium
 ---
 

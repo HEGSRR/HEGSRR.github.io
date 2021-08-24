@@ -6,7 +6,6 @@ categories:
 tags:
   - COVID-19
   - Reproducibility
-  - Presentation
   - Peter Kedron
   - Joseph Holler
 ---
