@@ -19,24 +19,24 @@ We are hosting back-to-back special sessions at the 2023 American Association of
 
 [link to session](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/6277)
 
-| Order |  Code | Presenter(s) | Title |
-| :-: | :-: | :-: | :-: |
-| 1 | -- | Joseph Holler | Introduction  |
-| 2 | 24009 | Jason Tullis | Provenance as a prerequisite for reproducibility and replicability in GIScience |
-| 3 | 26300 | Somayeh Dodge | Reproducibility and Open Science in Movement Research |
-| 4 | 24680 | Peter Kedron | Insights from Two Surveys on the Reproducibility and Replicability of Geographic Research  |
-| 5 | 25414 | Si Chen | A Deep Learning-based Approach to Improve Model Adaptability and Replicability for Cross-city Applications |
-| 6 | ---   | Participants | Q&A Discussion |
+| Order |  Presenter(s) | Title |
+| :-: | :-: | :-: |
+| 1 | Joseph Holler | Introduction  |
+| 2 | Jason Tullis | Provenance as a prerequisite for reproducibility and replicability in GIScience |
+| 3 | Somayeh Dodge | Reproducibility and Open Science in Movement Research |
+| 4 | Peter Kedron | Insights from Two Surveys on the Reproducibility and Replicability of Geographic Research  |
+| 5 | Si Chen | A Deep Learning-based Approach to Improve Model Adaptability and Replicability for Cross-city Applications |
+| 6 | Participants | Q&A Discussion |
 
 ### Session II
 
 [link to session](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/5681)
 
 | Order |  Code | Presenter(s) | Title |
-| :-: | :-: | :-: | :-: |
-| 1 | -- | Peter Kedron | Introduction  |
-| 2 | 24200 | Wendy Guan | Workflow based tools for integrated spatiotemporal research |
-| 3 | 21864 | Joseph Holler | Framework and Infrastructure for Reproducible Research and Pedagogy in HEGS |
-| 4 | 24315 | Sarah Bardin | Moving Beyond Computation: Reproducing Geographical Analyses of COVID-19 to Assess and Improve the Validity of Research |
-| 5 | 23932 | Junyi Zhou, Drew An-Pham, Derrick Burt, Joseph Holler | Middlebury College Undergraduate Students Reproduce Three Spatial Analysis Studies in Health and Hazards |
-| 6 | -- | Eric Delmelle | Discussant |
+| :-: | :-: | :-: |
+| 1 | Peter Kedron | Introduction  |
+| 2 | Wendy Guan | Workflow based tools for integrated spatiotemporal research |
+| 3 | Joseph Holler | Framework and Infrastructure for Reproducible Research and Pedagogy in HEGS |
+| 4 | Sarah Bardin | Moving Beyond Computation: Reproducing Geographical Analyses of COVID-19 to Assess and Improve the Validity of Research |
+| 5 | Junyi Zhou, Drew An-Pham, Derrick Burt, Joseph Holler | Middlebury College Undergraduate Students Reproduce Three Spatial Analysis Studies in Health and Hazards |
+| 6 | Eric Delmelle | Discussant |
