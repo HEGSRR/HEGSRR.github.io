@@ -1,5 +1,5 @@
 ---
-title: "Reproducibility and Replicability at Denver 2023 AAG"
+title: "AAG 2023 Sessions in Denver"
 categories:
   - blog
   - presentation
