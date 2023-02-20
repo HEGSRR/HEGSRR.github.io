@@ -32,7 +32,7 @@ We are hosting back-to-back special sessions at the 2023 American Association of
 
 [link to session](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/5681)
 
-| Order |  Code | Presenter(s) | Title |
+| Order |  Presenter(s) | Title |
 | :-: | :-: | :-: |
 | 1 | Peter Kedron | Introduction  |
 | 2 | Wendy Guan | Workflow based tools for integrated spatiotemporal research |
