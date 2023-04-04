@@ -16,6 +16,6 @@ Over the summer of 2021, Derrick's primary contribution was improving the reprod
 As a student in fall 2020, Derrick had previously worked on [replicating the same study for Connecticut](https://cybergisxhub.cigi.illinois.edu/blog/middlebury-college-students-reproduce-and-replicate-covid-19-health-care-resource-accessibility-study/).
 Working to reproduce geographic studies in centralized, well documented, and open-source formats was a satisfying challenge!
 
-Derrick is joining the [Middlebury College Department of Geography](http://www.middlebury.edu/academics/geog) in August 2021 as the Assistant in Science Instruction.
+Derrick joined the [Middlebury College Department of Geography](http://www.middlebury.edu/academics/geog) in August 2021 as the Assistant in Science Instruction.
 
 Learn more about Derrick Burt and his work on [GitHub](https://derrickburt.github.io/).
