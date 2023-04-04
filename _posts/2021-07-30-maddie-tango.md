@@ -18,4 +18,7 @@ The thesis has been published in the Middlebury Archives:
 
 Tango, M. (2021). *Reproducibility of a Geographical Study on the Effects of Wind Turbines on Bat Fatalities in the Northeast United States*. Available at: [https://repository.middlebury.edu/islandora/object/islandora%3A2202](https://repository.middlebury.edu/islandora/object/islandora%3A2202)
 
-Learn more about Maddie and her work on [LinkedIn](https://www.linkedin.com/in/madeleinetango/) and [GitHub](https://mtango99.github.io/)
+Maddie presented her thesis work at the [2021 Middlebury College Spring Symposium](https://www.middlebury.edu/office/sites/www.middlebury.edu.office/files/2021-05/SYM2021%20Schedule%200509.pdf) and the [14th Wind Wildlife Research Meeting](https://rewi.org/news-events/wind-wildlife-research-meeting-schedule/) in November 2022! 
+
+Learn more about Maddie and her work on [LinkedIn](https://www.linkedin.com/in/madeleinetango/) and [GitHub](https://mtango99.github.io/).
+Congratulations to Maddie on her new job at the Environmental Protection Agency in San Diego!

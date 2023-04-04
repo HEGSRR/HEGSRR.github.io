@@ -5,7 +5,7 @@ categories:
 tags:
   - Template
   - Reproducibility
-  - Preanalysis
+  - Pre-analysis
   - GitHub
   - Compendium
 ---
