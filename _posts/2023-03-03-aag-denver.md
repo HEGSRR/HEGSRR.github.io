@@ -44,3 +44,7 @@ We hosted back-to-back special sessions at the 2023 American Association of Geog
 | 4 | Sarah Bardin | Moving Beyond Computation: Reproducing Geographical Analyses of COVID-19 to Assess and Improve the Validity of Research |
 | 5 | Junyi Zhou, Drew An-Pham, Derrick Burt, Joseph Holler | Middlebury College Undergraduate Students Reproduce Three Spatial Analysis Studies in Health and Hazards |
 | 6 | Eric Delmelle | Discussant |
+
+### May 8 2023 Update
+
+Slides for the AAG 2023 Symposium on Harnessing the Geospatial Data Revolution for Sustainability Solutions are now available online through [I-GUIDE](https://iguide.illinois.edu/aag-2023-symposium-on-harnessing-the-geospatial-data-revolution-for-sustainability-solutions/).
