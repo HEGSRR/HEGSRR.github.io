@@ -12,8 +12,7 @@ tags:
 
 We look forward to hosting a workshop at the [Fourth Spatial Data Science Symposium Workshop](http://sdss2023.spatial-data-science.net/) in September 2023!
 
-## Reproducing and Replicating Spatial Data Science 
-### Tutorial with Breakout Discussion
+## Reproducing and Replicating Spatial Data Science
 
 Scientific research is increasingly expected to be reproducible as a matter of transparency and public trust in research, such that other researchers can use the same data and methods to produce the same results.
 Reproducibility and replicability are also integral to the mechanisms of self-correction and theory development in science.
