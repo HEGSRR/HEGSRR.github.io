@@ -30,8 +30,7 @@ We hosted back-to-back special sessions at the 2023 American Association of Geog
 | 2 | Jason Tullis | Provenance as a prerequisite for reproducibility and replicability in GIScience |
 | 3 | Somayeh Dodge | Reproducibility and Open Science in Movement Research |
 | 4 | Peter Kedron | Insights from Two Surveys on the Reproducibility and Replicability of Geographic Research  |
-| 5 | Si Chen | A Deep Learning-based Approach to Improve Model Adaptability and Replicability for Cross-city Applications |
-| 6 | Participants | Q&A Discussion |
+| 5 | Participants | Q&A Discussion |
 
 ### Session II
 
