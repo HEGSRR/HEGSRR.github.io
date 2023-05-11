@@ -112,4 +112,5 @@ tag_archive:
   type: liquid
   path: /tags/
 
-  future: true
+timezone: America/New_York
+future: true
