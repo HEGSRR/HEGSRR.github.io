@@ -61,10 +61,10 @@ author:
   bio    : "Transforming Theory and STEM Education Through Reproductions and Replications in the Geographical Sciences"
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa-brands fa-github"
       url: "https://github.com/HEGSRR"
     - label: "OSF"
-      icon: "fab fa-fw fa-cube"
+      icon: "fa-solid fa-cube"
       url: "https://osf.io/c5a2r/"
     - label: "Dr Kedron"
       icon: "fas fa-fw fa-link"
@@ -72,7 +72,7 @@ author:
     - label: "Dr Holler"
       icon: "fas fa-fw fa-link"
       url: "http://www.middlebury.edu/academics/geog/faculty/node/454160"
-    - label: "GIS4DEV GitHub"
+    - label: "GIS4DEV"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GIS4DEV"
 
