@@ -60,16 +60,19 @@ author:
   avatar : "/assets/images/nsf.png"
   bio    : "Transforming Theory and STEM Education Through Reproductions and Replications in the Geographical Sciences"
   links:
-    - label: "HEGSRR GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/HEGSRR"
-    - label: "Dr Kedron @ ASU"
+    - label: "OSF"
+      icon: "fab fa-fw fa-cube"
+      url: "https://osf.io/c5a2r/"
+    - label: "Dr Kedron"
       icon: "fas fa-fw fa-link"
       url: "https://sgsup.asu.edu/peter-kedron"
-    - label: "Dr Holler @ Middlebury"
+    - label: "Dr Holler"
       icon: "fas fa-fw fa-link"
       url: "http://www.middlebury.edu/academics/geog/faculty/node/454160"
-    - label: "Holler's Open Source GIS GitHub"
+    - label: "GIS4DEV GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GIS4DEV"
 
@@ -108,3 +111,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+  future: true
