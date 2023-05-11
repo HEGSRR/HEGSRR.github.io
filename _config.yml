@@ -61,10 +61,10 @@ author:
   bio    : "Transforming Theory and STEM Education Through Reproductions and Replications in the Geographical Sciences"
   links:
     - label: "GitHub"
-      icon: "fa-brands fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/HEGSRR"
     - label: "OSF"
-      icon: "fa-solid fa-cube"
+      icon: "fas fa-cube"
       url: "https://osf.io/c5a2r/"
     - label: "Dr Kedron"
       icon: "fas fa-fw fa-link"
