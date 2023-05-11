@@ -55,6 +55,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# icons are from https://fontawesome.com/v5/search
+
 author:
   name   : "Peter Kedron and Joseph Holler"
   avatar : "/assets/images/nsf.png"
