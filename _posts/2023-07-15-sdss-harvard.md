@@ -1,7 +1,7 @@
 ---
 title: "Symposium on Replicable Spatiotemporal Data Science"
 categories:
-  - conference
+  - presentation
 tags:
   - Peter Kedron
   - Joseph Holler

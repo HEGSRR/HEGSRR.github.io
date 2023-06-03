@@ -1,7 +1,6 @@
 ---
 title: "GSI Fellows COVID-19 Webinar"
 categories:
-  - blog
   - presentation
 tags:
   - COVID-19

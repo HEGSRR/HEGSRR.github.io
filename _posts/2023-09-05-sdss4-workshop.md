@@ -1,7 +1,6 @@
 ---
 title: "Spatial Data Science Symposium Workshop"
 categories:
-  - event
   - workshop
 tags:
   - Reproducibility
@@ -10,7 +9,7 @@ tags:
   - Sarah Bardin
 ---
 
-We look forward to hosting a workshop at the [Fourth Spatial Data Science Symposium Workshop](http://sdss2023.spatial-data-science.net/) in September 2023!
+We look forward to hosting a workshop at the virtual [Fourth Spatial Data Science Symposium Workshop](http://sdss2023.spatial-data-science.net/) in September 2023!
 
 ## Reproducing and Replicating Spatial Data Science
 

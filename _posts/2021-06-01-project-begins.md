@@ -1,7 +1,6 @@
 ---
 title: "The HEGSRR Project officially begins"
 categories:
-  - blog
   - grant
 tags:
   - NSF

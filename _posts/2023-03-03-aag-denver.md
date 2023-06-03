@@ -1,7 +1,6 @@
 ---
 title: "AAG 2023 Sessions in Denver"
 categories:
-  - blog
   - presentation
 tags:
   - Reproducibility
