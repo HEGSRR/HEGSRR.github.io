@@ -8,7 +8,7 @@ tags:
   - Sarah Bardin
 ---
 
-We have published a new preprint! Head on over to OSF Preprints doi:[10.31219/osf.io/nyrq9](https://doi.org/10.31219/osf.io/nyrq9) for a first look at our manuscript.
+We have published a new preprint!
 
 Kedron, Peter, Joseph Holler, and Sarah Bardin. 2023. “Reproducible Research Practices and Barriers to Reproducible Research in Geography: Insights from a Survey.” *OSF Preprints*. June 3. doi:[10.31219/osf.io/nyrq9](https://doi.org/10.31219/osf.io/nyrq9).
 
@@ -18,4 +18,4 @@ While many of the results amount to confirming what we already suspected with da
 
 Following reproducible research practices ourselves, we [pre-registered an analysis plan](https://osf.io/6zjcp) prior to collecting data, and we have published a [research compendium](https://osf.io/5yeq8/) of our data and code.
 
-We presented some of this work at the [AAG in Denver](aag-denver), with more to come at the [Spatiotemporal Data Science Symposium at Harvard](spatiotemporal-data-science-symposium).
+We presented some of this work at the [AAG in Denver](/presentation/aag-denver), with more to come at the [Spatiotemporal Data Science Symposium at Harvard](/presentation/sdss-harvard).
