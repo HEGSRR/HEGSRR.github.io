@@ -8,7 +8,7 @@ tags:
   - Sarah Bardin
 ---
 
-We have published a new preprint!
+We have published a new preprint on OSF!
 
 Kedron, Peter, Joseph Holler, and Sarah Bardin. 2023. “Reproducible Research Practices and Barriers to Reproducible Research in Geography: Insights from a Survey.” *OSF Preprints*. June 3. doi:[10.31219/osf.io/nyrq9](https://doi.org/10.31219/osf.io/nyrq9).
 
