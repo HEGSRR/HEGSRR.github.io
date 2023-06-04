@@ -1,5 +1,5 @@
 ---
-title: "Reproducible Research Practices and Barriers to Reproducible Research in Geography: Insights from a Survey"
+title: "A Framework for Moving Beyond Computational Reproducibility: Lessons from Three Reproductions of Geographical Analyses of COVID-19"
 categories:
   - publication
 tags:
@@ -10,7 +10,7 @@ tags:
 
 We have published a new preprint on [MetaArXiv](https://osf.io/preprints/metaarxiv/)!
 
-Kedron, Peter, Sarah Bardin, Joseph Holler, Joshua Gilman, Bryant Grady, Megan Seeley, Xin Wang, et al. 2023. “A Framework for Moving Beyond Computational Reproducibility: Lessons from Three Reproductions of Geographical Analyses of COVID-19.” *MetaArXiv*. May 29. [doi:10.31222/osf.io/7jqtv](https://doi:10.31222/osf.io/7jqtv).
+Kedron, Peter, Sarah Bardin, Joseph Holler, Joshua Gilman, Bryant Grady, Megan Seeley, Xin Wang, et al. 2023. “A Framework for Moving Beyond Computational Reproducibility: Lessons from Three Reproductions of Geographical Analyses of COVID-19.” *MetaArXiv*. May 29. [doi:10.31222/osf.io/7jqtv](https://doi.org/10.31222/osf.io/7jqtv).
 
 In this paper, we make the case for an approach to reproduction studies that goes beyond assessing computational reproducibility to thoroughly evaluate the internal validity of prior studies.
 For a study to be computationally reproducible, all of software, data, and code should be accessible enough for independent researchers to regenerate the same results.
