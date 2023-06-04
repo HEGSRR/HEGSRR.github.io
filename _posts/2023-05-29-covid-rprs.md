@@ -31,4 +31,4 @@ The three original studies and reproduction study compendia are:
 | [Vijayan et al 2020](https://doi.org/10.1093/cid/ciaa1692) | [10.17605/OSF.IO/MY5DZ](https://doi.org/10.17605/OSF.IO/MY5DZ)
 | [Saffary et al 2020](https://doi.org/10.3389/fpubh.2020.579190) | [10.17605/OSF.IO/QFKG4](https://doi.org/10.17605/OSF.IO/QFKG4) |
 
-[Sarah Bardin](/sbardin) presented this paper at the [AAG in Denver](/presentation/aag-denver).
+[Sarah Bardin](/sarah-bardin) presented this paper at the [AAG in Denver](/presentation/aag-denver).
