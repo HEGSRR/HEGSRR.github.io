@@ -8,7 +8,6 @@ tags:
   - Peter Kedron
   - Joseph Holler
   - Special Issue
-permalink: cagis-live
 ---
 
 The Journal [Cartography and Geographic Information Science](https://www.tandfonline.com/journals/tcag20) has formalized our [special issue and a call for papers](https://bit.ly/CartographicGISciences).
