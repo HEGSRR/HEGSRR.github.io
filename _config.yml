@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: HEGSRR
+subtitle: Human-Environment and Geographical Sciences Reproducibility & Replicability
 # email:
 description: >- # this means to ignore newlines until "baseurl:"
   Human-Environment and Geographical Sciences Reproducibility and Replicability
@@ -99,6 +100,7 @@ defaults:
       comments: false
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
