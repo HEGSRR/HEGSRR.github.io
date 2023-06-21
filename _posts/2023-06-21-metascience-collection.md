@@ -5,7 +5,7 @@ categories:
 tags:
   - Open science
   - Metascience
-  - Compendium
+  - OSF
   - Peter Kedron
   - Joseph Holler
   - Sarah Bardin
