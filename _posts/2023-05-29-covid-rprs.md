@@ -6,8 +6,11 @@ tags:
   - Peter Kedron
   - Joseph Holler
   - Sarah Bardin
-  - preprint
+  - Preprint
   - OSF
+  - Reproducibility
+  - Spatial Statistics
+  - COVID-19
 ---
 
 We have published a new preprint on [MetaArXiv](https://osf.io/preprints/metaarxiv/)!

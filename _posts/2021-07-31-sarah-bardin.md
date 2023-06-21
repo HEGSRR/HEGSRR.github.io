@@ -6,8 +6,8 @@ tags:
   - R
   - Sarah Bardin
   - Qualtrics
-  - Bayesian statistics
-  - Spatial statistics
+  - Bayesian Statistics
+  - Spatial Statistics
 permalink: /sarah-bardin/
 ---
 

@@ -6,7 +6,6 @@ tags:
   - GRASS
   - R
   - Geomorphology
-  - LiDAR
   - Teaching
   - Zach Hilgendorf
 ---

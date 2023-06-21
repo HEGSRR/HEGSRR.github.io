@@ -6,7 +6,7 @@ tags:
   - Peter Kedron
   - Joseph Holler
   - Sarah Bardin
-  - preprint
+  - Preprint
   - OSF
 ---
 
