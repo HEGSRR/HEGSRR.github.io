@@ -6,6 +6,8 @@ tags:
   - Peter Kedron
   - Joseph Holler
   - Sarah Bardin
+  - preprint
+  - OSF
 ---
 
 We have published a new preprint on [MetaArXiv](https://osf.io/preprints/metaarxiv/)!
