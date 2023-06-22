@@ -1,5 +1,5 @@
 ---
-title: "Replication and the search for laws in the geographic sciences"
+title: "A Replication of DiMaggio et al. (2020) in Phoenix, AZ"
 categories:
   - publication
 tags:
@@ -16,4 +16,4 @@ Kedron, Peter, Sarah Bardin, Tyler D. Hoffman, Mehak Sachdeva, Matthew Quick, an
 
 This paper is notable in it's status as the first formal replication study in the geographical sciences.
 The study examines a prior study ([DiMaggio et al. 2020](https://doi.org/10.1016/j.annepidem.2020.08.012)) using a Bayesian spatial analysis of COVID-19 in New York City by replicating the study in Phoenix, Arizona.
-Through the replication study, we discover that in Phoenix, ethnic marginalization of majority Hispanic neighborhoods is more strongly associated with COVID-19 incidence than the racial marginalization of majority Black/African neighborhoods described by DiMaggio and others. 
+Through the replication study, we discover that in Phoenix, ethnic marginalization of majority Hispanic neighborhoods is more strongly associated with COVID-19 incidence than the racial marginalization of majority Black/African neighborhoods described by DiMaggio and others.
