@@ -4,7 +4,7 @@ categories:
   - people
 tags:
   - R
-  - Climate Vulnerability
+  - Vulnerability Model
   - Drew An-Pham
 ---
 

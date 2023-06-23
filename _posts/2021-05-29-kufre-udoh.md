@@ -8,7 +8,7 @@ tags:
   - PostGIS
   - QGIS
   - Teaching
-  - Climate Vulnerability
+  - Vulnerability Model
   - Health Accessibility
   - Kufre Udoh
 ---

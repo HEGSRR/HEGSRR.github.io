@@ -5,7 +5,7 @@ categories:
 tags:
   - R
   - Python
-  - Social Vulnerability
+  - Vulnerability Model
   - Principle Component Analysis
   - Liam Smith
 

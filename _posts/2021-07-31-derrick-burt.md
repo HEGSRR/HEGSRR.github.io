@@ -7,6 +7,7 @@ tags:
   - Python
   - Health Accessibility
   - Derrick Burt
+  - COVID-19
 ---
 
 Derrick Burt graduated Middlebury College in February 2021, where he studied geography and developed a strong interest in utilizing GIS and spatial thinking to study human environment interactions.
