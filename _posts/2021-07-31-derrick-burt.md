@@ -3,7 +3,7 @@ title: "Derrick Burt"
 categories:
   - people
 tags:
-  - CyberGISX
+  - Cyberinfrastructure
   - Python
   - Health Accessibility
   - Derrick Burt
