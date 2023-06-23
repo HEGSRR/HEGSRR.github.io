@@ -11,9 +11,10 @@ tags:
   - Reproducibility
   - Spatial Statistics
   - COVID-19
+  - Metascience
 ---
 
-We have published a new preprint on [MetaArXiv](https://osf.io/preprints/metaarxiv/)!
+We have published a new preprint in the [MetaArXiv](https://osf.io/preprints/metaarxiv/) collection of the OSF [Metascience Community](https://www.cos.io/communities/metascience)!
 
 Kedron, Peter, Sarah Bardin, Joseph Holler, Joshua Gilman, Bryant Grady, Megan Seeley, Xin Wang, et al. 2023. “A Framework for Moving Beyond Computational Reproducibility: Lessons from Three Reproductions of Geographical Analyses of COVID-19.” *MetaArXiv*. May 29. [doi:10.31222/osf.io/7jqtv](https://doi.org/10.31222/osf.io/7jqtv).
 
