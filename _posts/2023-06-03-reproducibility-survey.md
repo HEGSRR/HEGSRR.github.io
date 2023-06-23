@@ -8,6 +8,8 @@ tags:
   - Sarah Bardin
   - Preprint
   - OSF
+  - Qualtrics
+  - R
 ---
 
 We have published a new preprint on OSF!

@@ -12,6 +12,7 @@ tags:
   - Spatial Statistics
   - COVID-19
   - Metascience
+  - R
 ---
 
 We have published a new preprint in the [MetaArXiv](https://osf.io/preprints/metaarxiv/) collection of the OSF [Metascience Community](https://www.cos.io/communities/metascience)!

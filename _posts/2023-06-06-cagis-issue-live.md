@@ -12,7 +12,7 @@ tags:
 
 The Journal [Cartography and Geographic Information Science](https://www.tandfonline.com/journals/tcag20) has formalized our [special issue and a call for papers](https://bit.ly/CartographicGISciences).
 
-We are exicited about our collection of proposed papers, and invite researchers to email proposed titles and abstracts to fill space for one more two more contributions.
+We are excited about our collection of proposed papers, and invite researchers to email proposed titles and abstracts to fill space for one more two more contributions.
 Please email Joseph Holler josephh@middlebury.edu or Peter Kedron peter.kedron@asu.edu with an abstract or statement of interest.
 
 Our **paper submission deadline** is `August 31, 2023`.
