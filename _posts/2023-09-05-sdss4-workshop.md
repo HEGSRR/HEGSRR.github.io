@@ -9,7 +9,9 @@ tags:
   - Sarah Bardin
 ---
 
-We look forward to hosting a workshop at the virtual [Fourth Spatial Data Science Symposium Workshop](http://sdss2023.spatial-data-science.net/) in September 2023!
+We look forward to hosting a workshop at the virtual [Fourth Spatial Data Science Symposium Workshop](http://sdss2023.spatial-data-science.net/) on September 5, 2023!
+
+We have launched a preliminary workshop website here: [hegsrr.github.io/Workshop-SDSS-2023](https://hegsrr.github.io/Workshop-SDSS-2023/)
 
 ## Reproducing and Replicating Spatial Data Science
 
