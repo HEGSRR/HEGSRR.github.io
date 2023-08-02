@@ -13,4 +13,4 @@ We were honored to present two research talks in The [Symposium on Spatiotempora
 - Challenges and breakthroughs in replicable and expandable spatiotemporal data science by [Peter Kedron](tags/#peter-kedron)
 - Open science practices for replicating and extending spatiotemporal data science research by [Joseph Holler](tags/#joseph-holler)
 
-View the symposium [poster](assets/ssds23-poster.pdf) and [program](assets/ssds23-program.pdf).
+View the symposium [poster](/assets/ssds23-poster.pdf) and [program](/assets/ssds23-program.pdf).
