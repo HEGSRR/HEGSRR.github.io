@@ -13,3 +13,7 @@ Many of our licenses list "HEGSRR Contributors" as the copyright holder in the t
 
 The contributors to the HEGSRR project include:
 Peter Kedron, Kufre Udoh, Drew An-Pham, Derrick Burt, Sarah Bardin, Tyler Hoffman, the Open Source GIScience students at Middlebury College, and the GIS Capstone and Bayesian Statistical Modeling students at Arizona State University.
+
+### Resources used
+
+<a target="_blank" href="https://icons8.com/icon/F3fKtIfrSI0w/globe-checked">Globe Checked</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
