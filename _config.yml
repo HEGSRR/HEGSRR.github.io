@@ -71,13 +71,13 @@ author:
       url: "https://osf.io/c5a2r/"
     - label: "Dr Kedron"
       icon: "fas fa-fw fa-link"
-      url: "https://sgsup.asu.edu/peter-kedron"
+      url: "https://peterkedron.com/"
     - label: "Dr Holler"
       icon: "fas fa-fw fa-link"
-      url: "http://www.middlebury.edu/academics/geog/faculty/node/454160"
-    - label: "GIS4DEV"
+      url: "https://josephholler.github.io/"
+    - label: "Open GIScience"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/GIS4DEV"
+      url: "https://opengisci.github.io/"
 
 footer:
   links:
