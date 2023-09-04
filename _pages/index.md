@@ -1,5 +1,4 @@
 ---
-permalink: /products/
 title: "Products"
 ---
 
