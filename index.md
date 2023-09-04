@@ -1,5 +1,6 @@
 ---
 title: "Products"
+layout: home
 ---
 
 In our *reproducibility and replicability in human-environment and geographical sciences* project, we assess how geographers perceive reproducibility and replicability, and to what extent they implement reproducible research practices and attempt reproduction or replication studies.  
