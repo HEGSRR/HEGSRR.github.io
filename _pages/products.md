@@ -1,6 +1,6 @@
 ---
 title: "Products"
-layout: home
+layout: splash
 permalink: /products/
 ---
 
