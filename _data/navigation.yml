@@ -1,6 +1,6 @@
 main:
   - title: "Products"
-    url: /
+    url: /products/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
