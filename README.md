@@ -1,4 +1,4 @@
-![qr code](assets/images/qr.png)
+![qr code](assets/images/qr.png)   [https://hegsrr.github.io](https://hegsrr.github.io)
 
 # Minimal Mistakes remote theme starter
 
