@@ -7,12 +7,12 @@ We assess how geographers perceive reproducibility and replicability, and to wha
 We attempt to reproduce and replicate geographic studies with important societal impacts and/or intellectual merit contributions to the discipline.
 We also integrate teaching reproducible research practices and attempting reproduction and replication studies into geography curricula at the undergraduate and graduate levels, developing and testing pedagogy to train the next generation of researchers.
 
-# Open Science Infrastructure and Model Research Projects
+# Open Science Infrastructure and Pedagogy
 - [Overarching OSF Project](https://doi.org/10.17605/OSF.IO/C5A2R)
 - [GitHub Organization](https://www.github.com/HEGSRR)
 - [HEGSRR Template](https://www.github.com/HEGSRR/HEGSRR-Template)
 - [HEGSRR Manual](https://www.github.com/HEGSRR/HEGSRR-Manual)
-- [GIScience Course Website](https://opengisci.github.io)
+- GIScience [Course Website](https://opengisci.github.io) and [GitHub Organization](https://www.github.com/opengisci)
 
 # Key Publications
 
@@ -41,13 +41,16 @@ Project | Prior Study | GitHub | OSF | Plan | Report | Preprint | Publication |
 Brodie et al 2023 | [link](https://doi.org/10.1038/s41586-023-06410-z) | [link](https://github.com/HEGSRR/RPl-Brodie-2023) | [link](https://doi.org/10.17605/OSF.IO/QDBU2) |  | [link](https://github.com/HEGSRR/RPl-Brodie-2023/blob/main/docs/report/RPL-Report.pdf) |  | 
 Chakraborty 2021 | [link](https://doi.org/10.1016/j.dhjo.2020.101007) | [link](https://github.com/HEGSRR/RPr-Chakraborty-2021) | [link](https://doi.org/10.17605/OSF.IO/S5MTQ) | [link](https://doi.org/10.17605/OSF.IO/MJXHD) | [link](https://doi.org/10.17605/OSF.IO/647EX) |  | 
 DiMaggio et al 2020 | [link](https://doi.org/10.1016/j.annepidem.2020.08.012) | [link](https://github.com/HEGSRR/RPl-DiMaggio-2021) | [link](https://doi.org/10.17605/OSF.IO/N32GE) |  | [link](https://github.com/HEGSRR/RPl-DiMaggio-2021/blob/main/docs/report/report.md) | [link](http://doi.org/10.2139/ssrn.3995296) | [link](https://doi.org/10.1016/j.annepidem.2022.05.005)
-Kang et al 2020 | [link](https://doi.org/10.1186/s12942-020-00229-x) | [link](https://github.com/HEGSRR/RPr-Kang-2020 ) | [link](https://doi.org/10.17605/OSF.IO/N92V3) | [link](https://github.com/HEGSRR/RPr-Kang-2020/blob/main/docs/report/preanalysis.md) | [link](https://github.com/HEGSRR/RPr-Kang-2020/blob/main/docs/report/02-COVID-19Acc-Original.pdf) |  | 
+Kang et al 2020 | [link](https://doi.org/10.1186/s12942-020-00229-x) | [link](https://github.com/HEGSRR/RPr-Kang-2020 ) | [link](https://doi.org/10.17605/OSF.IO/N92V3) | [link](https://github.com/HEGSRR/RPr-Kang-2020/blob/main/docs/report/preanalysis.md) | [link](https://github.com/HEGSRR/RPr-Kang-2020/blob/main/docs/report/02-COVID-19Acc-Original.pdf) |  | *accepted*
 Kodros et al 2022 | [link](https://doi.org/10.1038/s41467-022-33372-z) | [link](https://github.com/geog210c/Reproduction-Kodros2022-Unequal-Exposure-Metals-Segregation ) |  | [link](https://github.com/geog210c/Reproduction-Kodros2022-Unequal-Exposure-Metals-Segregation/blob/main/docs/report/preanalysis_plan.pdf) | [link](https://github.com/geog210c/Reproduction-Kodros2022-Unequal-Exposure-Metals-Segregation/blob/main/docs/report/final_report.pdf) |  | 
 Malcomb et al 2014 | [link](https://doi.org/10.1016/j.apgeog.2014.01.004) | [link](https://github.com/HEGSRR/RPr-Malcomb-2014) | [link](https://doi.org/10.17605/OSF.IO/MGSR4) | [link](https://github.com/HEGSRR/RPr-Malcomb-2014/blob/main/docs/report/preanalysis.md) |  |  | 
 Maldonado et al 2023 | [link](https://doi.org/10.1007/s10903-022-01376-y) | [link](https://github.com/geog210c/Reproduction-Maldonado2022-Social-Determinants-Hypertension-Latino-Destinations) |  | [link](https://github.com/geog210c/Reproduction-Maldonado2022-Social-Determinants-Hypertension-Latino-Destinations/blob/main/docs/report/analysis_plan.md ) | [link](https://github.com/geog210c/Reproduction-Maldonado2022-Social-Determinants-Hypertension-Latino-Destinations/blob/main/docs/report/final_report.md) | [link](https://doi.org/10.21203/rs.3.rs-5876157/v1) | 
+Meng 2021 | [link](https://doi.org/10.5719/hgeo.2021.152.5) | [link](https://github.com/opengisci/RPr-Meng-2021) |   | [link](https://opengisci.github.io/RPr-Meng-2021/report/Analysis_plan.html)  | [link](https://opengisci.github.io/RPr-Meng-2021/report/final_report.html) |   |   | 
 Molallo et al 2020 | [link](https://doi.org/10.1016/j.scitotenv.2020.138884) | [link](https://github.com/HEGSRR/RPr-Mollalo-2020) | [link](https://doi.org/10.17605/OSF.IO/E43KQ ) |  | [link](https://github.com/HEGSRR/RPr-Mollalo-2020/blob/main/docs/report/RP-Mollalo-Report.pdf) |  | [link](https://doi.org/10.1111/gean.12370)
 Saffary et al 2020 | [link](https://doi.org/10.3389/fpubh.2020.579190) | [link](https://github.com/HEGSRR/RPr-Saffary-2020) | [link](https://doi.org/10.17605/OSF.IO/QFKG4) |  | [link](https://github.com/HEGSRR/RPr-Saffary-2020/blob/main/docs/report/RP-Saffary-Report.pdf ) |  | [link](https://doi.org/10.1111/gean.12370)
 Spielman et al 2020 | [link](https://doi.org/10.1007/s11069-019-03820-z) | [link](https://github.com/HEGSRR/RPl-Spielman-2020) | [link](https://doi.org/10.17605/OSF.IO/DZPE9) | [link](https://doi.org/10.17605/OSF.IO/9NTDS) | [link](https://doi.org/10.17605/OSF.IO/4S62B) |  | 
+Sterling et al 2023	 | [link](https://doi.org/10.1089/env.2022.0115) | [link](https://github.com/opengisci/RPr-Sterling-2023) |   | [link](https://opengisci.github.io/RPr-Sterling-2023/Analysis%20Plan.html)  | [link](https://opengisci.github.io/RPr-Sterling-2023/Final%20Report.html) |   |   | 
+Tuholske et al 2024 | [link](https://doi.org/10.1038/s41893-024-01293-y) | [link](https://github.com/opengisci/RPr-Tuholske-2024) |   | [link](https://opengisci.github.io/RPr-Tuholske-2024/report/preanalysisplan_v1.0.html)  | [link](https://opengisci.github.io/RPr-Tuholske-2024/) |   |   | 
 Vijayan et al 2020 | [link](https://doi.org/10.1093/cid/ciaa1692) | [link](https://github.com/HEGSRR/RP-Vijayan-2020) | [link](https://doi.org/10.17605/OSF.IO/MY5DZ) |  | [link](https://github.com/HEGSRR/RP-Vijayan-2020/blob/main/docs/report/RP-Vijayan-Report.pdf) |  | [link](https://doi.org/10.1111/gean.12370)
 
 # Other Publications
@@ -66,8 +69,10 @@ Decentralized infrastructure | [link](https://doi.org/10.5703/1288284317675) | I
 R&R of Remote Sensing | [link](https://doi.org/10.3390/rs14215471) | Remote Sensing |  |  |  |  |  | 
 Replications as PBL in GIScience |  | Transactions in GIS | [link](https://github.com/HEGSRR/OR-RR-as-PBL-in-GIScience ) | [link](https://doi.org/10.17605/OSF.IO/N8S43) |  |  | [link](https://doi.org/10.31219/osf.io/6mnaj_v1) | 
 Uncertainty and bias in spatial data science education | [link](https://doi.org/10.5703/1288284317799) | I-GUIDE Forum 2024 |  |  |  |  |  | 
-Vermont Pharmacy Accessibility |  | BMC Health Services | [link](https://github.com/HEGSRR/OR-VT-Pharmacy) | [link](https://doi.org/10.17605/OSF.IO/BCQ9S) | [link](https://doi.org/10.17605/OSF.IO/SKUD7) | [link](https://doi.org/10.17605/OSF.IO/MBC2W) | [link](https://doi.org/10.1101/2025.04.29.25326678) | [link](https://hegsrr.github.io/OR-VT-Pharmacy/)
+Vermont Pharmacy Accessibility | *accepted* | BMC Health Services | [link](https://github.com/HEGSRR/OR-VT-Pharmacy) | [link](https://doi.org/10.17605/OSF.IO/BCQ9S) | [link](https://doi.org/10.17605/OSF.IO/SKUD7) | [link](https://doi.org/10.17605/OSF.IO/MBC2W) | [link](https://doi.org/10.1101/2025.04.29.25326678) | [link](https://hegsrr.github.io/OR-VT-Pharmacy/)
 
+# Workshops
 
-
-
+- SDSS 2024: [How to start teaching replicability in spatial data science courses](https://hegsrr.github.io/Workshop-SDSS-2024/)
+- AALAC 2024: [Reproducibility and Replicability in the Liberal Arts](https://hegsrr.github.io/Workshop-AALAC-RR-2024/)
+- SDSS 2023: [Reproducing and Replicating Spatial Data Science](https://hegsrr.github.io/Workshop-SDSS-2023/)
