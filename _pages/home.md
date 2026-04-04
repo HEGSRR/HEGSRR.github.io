@@ -13,6 +13,7 @@ We also integrate teaching reproducible research practices and attempting reprod
 - [HEGSRR Template](https://www.github.com/HEGSRR/HEGSRR-Template)
 - [HEGSRR Manual](https://www.github.com/HEGSRR/HEGSRR-Manual)
 - GIScience [Course Website](https://opengisci.github.io) and [GitHub Organization](https://www.github.com/opengisci)
+- [NSF Public Access Repository](https://par.nsf.gov/search/term:2049837/)
 
 # Key Publications
 
@@ -63,8 +64,8 @@ This table outlines the peer-reviewed journal articles, conference papers, and e
 
 Project | Publication | Journal | GitHub | OSF | Plan | Report | Preprint | Website
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-Reproduction Survey | [link](https://doi.org/10.1080/24694452.2023.2276115) | Annals of the American Association of Geographers | [link](https://github.com/HEGSRR/OR-Reproducibility-in-Geography-Survey) | [link](https://doi.org/10.17605/OSF.IO/5YEQ8) | [link](https://doi.org/10.17605/OSF.IO/6ZJCP) |  | [link](https://doi.org/10.31219/osf.io/nyrq9) | [link](https://doi.org/10.17605/OSF.IO/B47XU)
-Replication Survey | [link](https://doi.org/10.1080/24694452.2024.2415695) | Annals of the American Association of Geographers | [link](https://github.com/HEGSRR/OR-Replicability-in-Geography-Survey) | [link](https://doi.org/10.17605/OSF.IO/X6QRK) | [link](https://doi.org/10.17605/OSF.IO/A4NWG) |  | [link](https://doi.org/10.31222/osf.io/cgvzp_v1) | [link](https://doi.org/10.17605/OSF.IO/KUCHA)
+Reproducibility Survey | [link](https://doi.org/10.1080/24694452.2023.2276115) | Annals of the American Association of Geographers | [link](https://github.com/HEGSRR/OR-Reproducibility-in-Geography-Survey) | [link](https://doi.org/10.17605/OSF.IO/5YEQ8) | [link](https://doi.org/10.17605/OSF.IO/6ZJCP) |  | [link](https://doi.org/10.31219/osf.io/nyrq9) | [link](https://josephholler.shinyapps.io/rpr-survey/)
+Replicability Survey | [link](https://doi.org/10.1080/24694452.2024.2415695) | Annals of the American Association of Geographers | [link](https://github.com/HEGSRR/OR-Replicability-in-Geography-Survey) | [link](https://doi.org/10.17605/OSF.IO/X6QRK) | [link](https://doi.org/10.17605/OSF.IO/A4NWG) |  | [link](https://doi.org/10.31222/osf.io/cgvzp_v1) | [link](https://josephholler.shinyapps.io/rpl-survey/)
 Replication and Laws | [link](https://doi.org/10.1080/19475683.2022.2027011) | Annals of GIS |  |  |  |  |  | 
 Verification and Validation GISBoK | [link](https://doi.org/10.22224/gistbok/2024.1.13) | Geographic Information Science & Technology Body of Knowledge |  |  |  |  |  | 
 Veridical spatial data science | [link](https://doi.org/10.25436/E20016) | Spatial Data Science Symposium 2021 |  |  |  |  |  | 
@@ -75,7 +76,6 @@ Replications as PBL in GIScience | [link](https://doi.org/10.1111/tgis.70162) | 
 Uncertainty and bias in spatial data science education | [link](https://doi.org/10.5703/1288284317799) | I-GUIDE Forum 2024 |  |  |  |  |  | 
 Vermont Pharmacy Accessibility | [link](https://doi.org/10.1186/s12913-025-13653-1) | BMC Health Services | [link](https://github.com/HEGSRR/OR-VT-Pharmacy) | [link](https://doi.org/10.17605/OSF.IO/BCQ9S) | [link](https://doi.org/10.17605/OSF.IO/SKUD7) | [link](https://doi.org/10.17605/OSF.IO/MBC2W) | [link](https://doi.org/10.1101/2025.04.29.25326678) | [link](https://hegsrr.github.io/OR-VT-Pharmacy/)
 Recent advances in reproducibility | [link](https://doi.org/10.1080/15230406.2025.2512084) | Cartography and Geographic Information Science |  |  |  |  |  | 
-
 
 
 # Workshops
