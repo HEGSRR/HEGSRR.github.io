@@ -7,6 +7,8 @@ We assess how geographers perceive reproducibility and replicability, and to wha
 We attempt to reproduce and replicate geographic studies with important societal impacts and/or intellectual merit contributions to the discipline.
 We also integrate teaching reproducible research practices and attempting reproduction and replication studies into geography curricula at the undergraduate and graduate levels, developing and testing pedagogy to train the next generation of researchers.
 
+NSF Award `2049837` [Details](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2049837)
+
 # Open Science Infrastructure and Pedagogy
 - [Overarching OSF Project](https://doi.org/10.17605/OSF.IO/C5A2R)
 - [GitHub Organization](https://www.github.com/HEGSRR)
